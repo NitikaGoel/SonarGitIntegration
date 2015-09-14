@@ -22,6 +22,9 @@ public class ComplexMethod {
          if (i == 7) {
             return "seven";
         }
+         if (i == 9) {
+            return "Nine";
+        }
         if (i > 8) {
             throw new NotImplementedException();
         }
